@@ -1,2 +1,8 @@
-# controlpanel
-Control panel of my "desktop environment".
+# ControlPanel
+Control Panel of my "desktop environment".
+
+## Installation
+WIP
+
+## Features
+WIP
